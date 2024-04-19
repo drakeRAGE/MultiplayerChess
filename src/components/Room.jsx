@@ -18,7 +18,7 @@ function Room() {
             sharedLinks: [
             {
                 name: 'Copy link',
-                url: `http://localhost/room`
+                url: 'https://chess-multiplayer-nine.vercel.app/'
             },
             ],
             scenario: {
